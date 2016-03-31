@@ -26,3 +26,7 @@ html {
 	top: 3rem;
 	left: 1rem;
 }
+
+feildset, legend, input[type="radio"] + label {
+	display: inline-block;
+}
